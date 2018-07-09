@@ -1,5 +1,9 @@
 # bwhud 16:10
 
+This is a project to successfully create a version of bwhud that works on 16:10 screen resolutions
+
+# 
+
 bwHUD comes with custom crosshairs. They may be found in the hudlayout.res file, simply change "visible" to "1",
 and "labeltext" to the corresponding symbol found in Crosshair.png
 
