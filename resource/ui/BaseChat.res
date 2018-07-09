@@ -4,13 +4,13 @@
 	{
 		"ControlName"		      "EditablePanel"
 		"fieldName" 		      "HudChat"
-		"visible" 		        "1"
-		"enabled" 		        "1"
+		"visible" 		          "1"
+		"enabled" 		          "1"
 		"xpos"			          "2"
-		"ypos"			          "r198"
+		"ypos"			          "r440"
         "zpos"                    "-50"
 		"wide"	 		          "230"
-		"tall"	 		          "100"
+		"tall"	 		          "130"
 		"fgcolor"		"White"
 		"PaintBackgroundType"	"0"
 	}
