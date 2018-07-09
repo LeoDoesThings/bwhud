@@ -3,9 +3,10 @@
 ## This is the testing version of bwhud 16:10
 
 UI items may be displaced or broken, this is the testing stage and not official release.
-I will not take any resposibilty for any damage caused by this hud version. Downloading and Installing is the user's own risk and actions.
+I will not take any resposibilty for any damage caused by this hud version. Downloading and Installing is the user's own action and risk.
 
 # 
+
 bwHUD comes with custom crosshairs. They may be found in the hudlayout.res file, simply change "visible" to "1", and "labeltext" to the corresponding symbol found in Crosshair.png
 
 Additionally, another custom crosshair is toggle-able if desired. Navigate to HUDAchievementTrackerItem.res and set "visible" to "1". hud_achievement_tracker is the required console command to toggle, 1 for on, and 0 for off, use the crosshair.png to choose your desired crosshair.
