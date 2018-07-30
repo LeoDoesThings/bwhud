@@ -1,6 +1,6 @@
 # bwhud 16:10
 
-This is a project to successfully create a version of bwhud that works on 16:10 screen resolutions
+This is a project to successfully create a version of bwhud that works on 16:10 screen resolutions. This project is not finished and may cause damages if not used/installed properly.
 
 If you would like to try the beta version [click here](https://github.com/LeoDoesThings/bwhud-16-10/tree/beta)
 
