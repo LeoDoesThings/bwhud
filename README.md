@@ -7,6 +7,7 @@ UI items may be displaced or broken, this is the testing stage and not official 
 I will not take any resposibilty for any damage caused by this hud version. Downloading and Installing is the user's own action and risk.
 
 If you want to take an even bigger risk, you can try the alpha version by clicking [here](https://github.com/LeoDoesThings/bwhud-16-10/tree/alpha)
+To go back to the master branch which will most likely not cause damages, [click here](https://github.com/LeoDoesThings/bwhud-16-10/tree/master)
 
 # 
 
