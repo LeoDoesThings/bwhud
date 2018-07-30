@@ -6,6 +6,8 @@ UI items may be displaced or broken, this is the testing stage and not official 
 
 I will not take any resposibilty for any damage caused by this hud version. Downloading and Installing is the user's own action and risk.
 
+If you want to take an even bigger risk, you can try the alpha version by clicking [here](https://github.com/LeoDoesThings/bwhud-16-10/tree/alpha)
+
 # 
 
 bwHUD comes with custom crosshairs. They may be found in the hudlayout.res file, simply change "visible" to "1", and "labeltext" to the corresponding symbol found in Crosshair.png
