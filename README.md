@@ -6,7 +6,7 @@ Items may be out of place, please report all items out of place to the [issues p
 
 If you would like to try the beta version [click here](https://github.com/LeoDoesThings/bwhud-16-10/tree/beta)
 
-_
+__
 
 bwHUD comes with custom crosshairs. They may be found in the hudlayout.res file, simply change "visible" to "1",
 and "labeltext" to the corresponding symbol found in Crosshair.png
