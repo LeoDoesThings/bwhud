@@ -1,4 +1,5 @@
-# bwHUD 16:10
+# bwHUD 16:10 IS NOW NO LONGER UPDATED
+# UPDATED HUD IS [HERE](https://github.com/DankZone/budhud)
 
 This is a project to successfully create a version of bwhud that works on 16:10 screen resolutions. This project is not finished and may cause damages if not used/installed properly.
 
