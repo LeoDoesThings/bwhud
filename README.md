@@ -1,13 +1,11 @@
-# bwHUD 16:10 IS NOW NO LONGER UPDATED
-# UPDATED HUD IS [HERE](https://github.com/DankZone/budhud)
+# bwHUD 16:10
+### This edited version of bwHUD should work on both 16:9 and 16:10 aspect ratio screens
 
-This is a project to successfully create a version of bwhud that works on 16:10 screen resolutions. This project is not finished and may cause damages if not used/installed properly.
+This is a project to successfully create a version of bwhud that works on 16:10 screen resolutions. This project is not finished some parts of the HUD may not work properly and/or be out of place.
 
-Items may be out of place, please report all items out of place to the [issues page](https://github.com/LeoDoesThings/bwhud-16-10/issues)
+Many UI items may be out of place, please report all issues to the [issues page](https://github.com/LeoDoesThings/bwhud/issues)
 
-If you would like to try the beta version [click here](https://github.com/LeoDoesThings/bwhud-16-10/tree/beta)
-
-___
+---
 
 bwHUD comes with custom crosshairs. They may be found in the hudlayout.res file, simply change "visible" to "1",
 and "labeltext" to the corresponding symbol found in Crosshair.png
