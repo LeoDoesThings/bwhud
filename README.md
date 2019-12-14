@@ -1,8 +1,8 @@
 # bwHUD (MacOS Version)
 ### This edited version of bwHUD should work on both 16:9 and 16:10 aspect ratio screens
 
-> **bwHUD has not been updated and tested for some time.  
-An update will begin development after TF2 is updated to run on MacOS Catalina**
+> bwHUD has not been updated and tested for some time.  
+**An update will begin development after TF2 is updated to run on MacOS Catalina**
 
 This is a project to successfully create a version of bwhud that works on 16:10 screen resolutions. This project is not finished some parts of the HUD may not work properly and/or be out of place.
 
